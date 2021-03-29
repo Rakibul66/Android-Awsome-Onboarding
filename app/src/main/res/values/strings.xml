@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Onboarding anim</string>
+    <!--Titles-->
+    <string name="first_slide_title">Location</string>
+    <string name="second_slide_title">Call</string>
+    <string name="third_slide_title">Place</string>
+    <string name="fourth_slide_title">Enjoy</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city. We will display specific or all related shops to match your search. </string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us. You can perform bookings as well.</string>
+    <string name="third_slide_desc">If you have a shop or somethings and want to be a part of our growing industry then add your place by follwing simple steps.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you don\'t have to worry about anything.</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Begin</string>
+    <string name="one">cloud</string>
+    <string name="two">data</string>
+    <string name="three">analysis</string>
+    <string name="four">email</string>
+    <string name="five">share</string>
+    <string name="six">update</string>
+    <string name="seven">translate</string>
+    <string name="eight">software</string>
+    <string name="nine">promote</string>
+    <string name="ten">search</string>
+    <string name="eleven">game</string>
+    <string name="tweleve">dish</string>
+    <string name="logout">logout</string>
+</resources>
